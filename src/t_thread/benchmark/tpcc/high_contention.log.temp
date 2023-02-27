@@ -1,0 +1,48 @@
+Warehouse:  16
+aria:
+	raw_cnt:7862, waw_cnt:7368, cas_cnt:0, batch_cnt:33, commit_cnt:16230
+thread: 1	ktps: 2964.0026947100077	
+	raw_cnt:7922, waw_cnt:7374, cas_cnt:0, batch_cnt:33, commit_cnt:16296
+thread: 2	ktps: 7197.903034333176	
+	raw_cnt:7805, waw_cnt:7312, cas_cnt:0, batch_cnt:33, commit_cnt:16117
+thread: 3	ktps: 11137.524541325105	
+	raw_cnt:7859, waw_cnt:7358, cas_cnt:0, batch_cnt:32, commit_cnt:16217
+thread: 5	ktps: 18184.752916595513	
+	raw_cnt:7784, waw_cnt:7407, cas_cnt:0, batch_cnt:33, commit_cnt:16191
+thread: 8	ktps: 26624.8050111438	
+	raw_cnt:7849, waw_cnt:7332, cas_cnt:0, batch_cnt:33, commit_cnt:16181
+thread: 12	ktps: 39410.89530106836	
+	raw_cnt:7796, waw_cnt:7328, cas_cnt:0, batch_cnt:33, commit_cnt:16124
+thread: 16	ktps: 51717.096773143196	
+	raw_cnt:7907, waw_cnt:7411, cas_cnt:0, batch_cnt:33, commit_cnt:16318
+thread: 24	ktps: 29926.43824859288	
+	raw_cnt:7808, waw_cnt:7345, cas_cnt:0, batch_cnt:33, commit_cnt:16153
+thread: 32	ktps: 45657.76296913894	
+	raw_cnt:7812, waw_cnt:7322, cas_cnt:0, batch_cnt:32, commit_cnt:16134
+thread: 64	ktps: 37933.36594591248	
+	raw_cnt:7881, waw_cnt:7412, cas_cnt:0, batch_cnt:33, commit_cnt:16293
+thread: 128	ktps: 30307.08241505298	
+gria:
+batch 1 ok, txn_cnt: 1000
+	raw_cnt:0, waw_cnt:0, cas_cnt:0, batch_cnt:1, commit_cnt:1000
+thread: 1	ktps: 169743.4073782367	
+	raw_cnt:264, waw_cnt:0, cas_cnt:27, batch_cnt:3, commit_cnt:1291
+thread: 2	ktps: 252390.2237555433	
+	raw_cnt:387, waw_cnt:0, cas_cnt:28, batch_cnt:4, commit_cnt:1415
+thread: 3	ktps: 252533.35017293054	
+	raw_cnt:427, waw_cnt:0, cas_cnt:20, batch_cnt:4, commit_cnt:1447
+thread: 5	ktps: 525228.0293246153	
+	raw_cnt:502, waw_cnt:0, cas_cnt:13, batch_cnt:4, commit_cnt:1515
+thread: 8	ktps: 677293.1401696308	
+	raw_cnt:532, waw_cnt:0, cas_cnt:12, batch_cnt:4, commit_cnt:1544
+thread: 12	ktps: 1.0731437233844707e+06	
+	raw_cnt:553, waw_cnt:0, cas_cnt:7, batch_cnt:4, commit_cnt:1560
+thread: 16	ktps: 1.1274093075124333e+06	
+	raw_cnt:563, waw_cnt:0, cas_cnt:5, batch_cnt:4, commit_cnt:1568
+thread: 24	ktps: 1.1407669058775015e+06	
+	raw_cnt:579, waw_cnt:0, cas_cnt:4, batch_cnt:4, commit_cnt:1583
+thread: 32	ktps: 973531.5274777814	
+	raw_cnt:584, waw_cnt:0, cas_cnt:1, batch_cnt:4, commit_cnt:1585
+thread: 64	ktps: 907409.4189436453	
+	raw_cnt:578, waw_cnt:0, cas_cnt:1, batch_cnt:4, commit_cnt:1579
+thread: 128	ktps: 1.0324025742338747e+06	

@@ -1,0 +1,7 @@
+{
+    "Host": "127.0.0.1:9998",
+    "Server": "Gria", 
+    "Fallback": false,
+    "Reordering": false, 
+    "Thread": 16
+}
